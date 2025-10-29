@@ -117,7 +117,7 @@ export default function FlashcardApp() {
     <div className="page">
       <div className="app">
         <header className="header">
-          <h1>Flashcards</h1>
+          <h1>Greek Flashcards</h1>
           <span className="progress">{index + 1} / {total}</span>
         </header>
 
@@ -176,7 +176,7 @@ export default function FlashcardApp() {
           </p>
         )}
 
-     <p className="hint">← / → ile gezin • Space: cevabı aç</p>
+     <p className="hint">← / → ile gezin </p>
       </div>
     </div>
   );
