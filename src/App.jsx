@@ -176,9 +176,7 @@ export default function FlashcardApp() {
           </p>
         )}
 
-        <p className="hint" style={{marginTop: 8}}>
-          Kısayollar: ←/→ gezin; mcq: 1-9, tf: T/F; open: Space ile aç/kapat. Soruları <code>public/questions.json</code> ile yönetin.
-        </p>
+     <p className="hint">← / → ile gezin • Space: cevabı aç</p>
       </div>
     </div>
   );
