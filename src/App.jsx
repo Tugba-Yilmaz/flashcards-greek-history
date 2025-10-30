@@ -120,7 +120,7 @@ export default function FlashcardApp() {
           <h1>Greek Flashcards</h1>
           <span className="progress">{index + 1} / {total}</span>
         </header>
-
+{/*
         <div className="toolbar">
           <button className="btn" onClick={() => setRevealAll((v) => !v)}>
             {revealAll ? "Cevapları Gizle" : "Cevapları Göster"}
@@ -128,6 +128,7 @@ export default function FlashcardApp() {
           <button className="btn" onClick={() => setAnswer(null)}>Bu kartı temizle</button>
           <button className="btn" onClick={resetAll}>Hepsini sıfırla</button>
         </div>
+        */}
 
         {/* KART */}
         <div className="card">
