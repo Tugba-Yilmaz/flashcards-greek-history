@@ -176,7 +176,7 @@ export default function FlashcardApp() {
           </p>
         )}
 
-     <p className="hint">← / → ile gezin </p>
+   
       </div>
     </div>
   );
