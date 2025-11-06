@@ -117,7 +117,7 @@ export default function FlashcardApp() {
     <div className="page">
       <div className="app">
         <header className="header">
-          <h1>Greek Flashcards</h1>
+          <h1>ΙΣΤΟΡΙΑ</h1>
           <span className="progress">{index + 1} / {total}</span>
         </header>
 {/*
